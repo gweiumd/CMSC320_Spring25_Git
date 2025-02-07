@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be used in the climatology field. Retrieving insights from the data, training models, and other tasks
 in this field use data science principles and techniques. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging does not delete previous version history. However, rebasing can override the history, meaning no merge commits and 
+a cleaner history, but can be more dangerous.
