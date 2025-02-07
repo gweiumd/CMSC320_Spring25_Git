@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging does not delete previous version history. However, rebasing can override the history, meaning no merge commits and 
 a cleaner history, but can be more dangerous.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science practices and getting hands-on experience.
